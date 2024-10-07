@@ -1,4 +1,4 @@
-# Resources for Slovak 
+# Resources for Slovak
 
 ## Datasets
 
@@ -21,6 +21,8 @@
 | Legal mC4 | - | [Link](https://huggingface.co/datasets/joelniklaus/legal-mc4) |
 | CC-100 | [Link](https://aclanthology.org/2020.acl-main.747.pdf) | [Link](https://huggingface.co/datasets/statmt/cc100) |
 | Glot500 | [Link](https://aclanthology.org/2023.acl-long.61/) | [Link](https://huggingface.co/datasets/cis-lmu/Glot500) |
+| EU Lex | - | [Link](https://huggingface.co/datasets/joelniklaus/eurlex_resources) |
+| CC News | - | [Link](https://huggingface.co/datasets/stanford-oval/ccnews) |
 
 ### Question Answering
 
@@ -84,6 +86,7 @@
 | SK CSFD Movie reviews | - | [Link](https://huggingface.co/datasets/fewshot-goes-multilingual/sk_csfd-movie-reviews) |
 | MMS | [Link](https://arxiv.org/abs/2306.07902) | [Link](https://huggingface.co/datasets/Brand24/mms) |
 | SentiLex | [Link](https://aclanthology.org/P14-2063/) | [Link](https://huggingface.co/datasets/senti-lex/senti_lex) |
+| ParlaSent | - | [Link](https://huggingface.co/datasets/classla/ParlaSent) |
 
 ### Hate Speech
 
@@ -99,6 +102,11 @@
 | MultiClaim Claim Detection | [Link](https://arxiv.org/abs/2311.06121) | [Link](https://github.com/kinit-sk/claim-detection/tree/main) |
 | Demagog | - | [Link](https://corpora.kiv.zcu.cz/fact-checking/) |
 | qacg-sk | - | [Link](https://huggingface.co/datasets/ctu-aic/qacg-sk) |
+
+### Machine Generated Text Detection
+
+| Name | Paper | Link |
+|------ | ----- | ---- |
 
 ### Instruction Tuning
 
