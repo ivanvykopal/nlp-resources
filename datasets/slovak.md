@@ -23,6 +23,7 @@
 | Glot500 | [Link](https://aclanthology.org/2023.acl-long.61/) | [Link](https://huggingface.co/datasets/cis-lmu/Glot500) |
 | EU Lex | - | [Link](https://huggingface.co/datasets/joelniklaus/eurlex_resources) |
 | CC News | - | [Link](https://huggingface.co/datasets/stanford-oval/ccnews) |
+| FineWeb 2| - | [Link](https://huggingface.co/datasets/HuggingFaceFW/fineweb-2) |
 
 ### Question Answering
 

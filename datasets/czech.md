@@ -31,6 +31,7 @@
 | CC News | - | [Link](https://huggingface.co/datasets/stanford-oval/ccnews) |
 | NTREX | - | [Link](https://huggingface.co/datasets/davidstap/NTREX) |
 | BUT-LCC | - | [Link](https://huggingface.co/datasets/BUT-FIT/BUT-LCC) |
+| FineWeb 2| - | [Link](https://huggingface.co/datasets/HuggingFaceFW/fineweb-2) |
 
 ### Question Answering
 
