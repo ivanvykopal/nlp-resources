@@ -24,6 +24,8 @@
 | EU Lex | - | [Link](https://huggingface.co/datasets/joelniklaus/eurlex_resources) |
 | CC News | - | [Link](https://huggingface.co/datasets/stanford-oval/ccnews) |
 | FineWeb 2| - | [Link](https://huggingface.co/datasets/HuggingFaceFW/fineweb-2) |
+| GlotCC-V1 | [Link](https://arxiv.org/abs/2410.23825) | [Link](https://huggingface.co/datasets/cis-lmu/GlotCC-V1) |
+| Glot500 | [Link](https://arxiv.org/abs/2305.12182) | [Link](https://huggingface.co/datasets/cis-lmu/Glot500) |
 
 ### Question Answering
 
@@ -34,6 +36,8 @@
 | QA2D-SK | [Link](https://arxiv.org/abs/2312.10171) | [Link](https://huggingface.co/datasets/ctu-aic/qa2d-sk) |
 | Slovak BoolQ | - | [Link](https://huggingface.co/datasets/crabz/boolq_sk) |
 | MFQA | [Link](https://arxiv.org/abs/2109.12870) | [Link](https://huggingface.co/datasets/clips/mqa) |
+| WebFAQ | [Link](https://arxiv.org/abs/2502.20936) | [Link](https://huggingface.co/datasets/PaDaS-Lab/webfaq) |
+| WebFAQ Bilingual | [Link](https://arxiv.org/abs/2502.20936) | [Link](https://huggingface.co/datasets/PaDaS-Lab/webfaq-bitexts) |
 
 ### Morphological (POS)
 
@@ -166,3 +170,5 @@
 | SIB 200 | [Link](https://aclanthology.org/2024.eacl-long.14/) | [Link](https://huggingface.co/datasets/Davlan/sib200) |
 | MultiQ | - | [Link](https://huggingface.co/datasets/caro-holt/MultiQ) |
 | Spell Check | - | [Link](https://huggingface.co/datasets/openfoodfacts/spellcheck-benchmark) |
+| XTREME-S | [Link](https://arxiv.org/abs/2203.10752) | [Link](https://huggingface.co/datasets/google/xtreme_s) |
+| WebFAQ Retrieval | [Link](https://arxiv.org/abs/2502.20936) | [Link](https://huggingface.co/datasets/PaDaS-Lab/webfaq-retrieval) |
