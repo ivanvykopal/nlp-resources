@@ -26,6 +26,7 @@
 | FineWeb 2| - | [Link](https://huggingface.co/datasets/HuggingFaceFW/fineweb-2) |
 | GlotCC-V1 | [Link](https://arxiv.org/abs/2410.23825) | [Link](https://huggingface.co/datasets/cis-lmu/GlotCC-V1) |
 | Glot500 | [Link](https://arxiv.org/abs/2305.12182) | [Link](https://huggingface.co/datasets/cis-lmu/Glot500) |
+| DCAD-2000 | - | [Link](https://huggingface.co/datasets/openbmb/DCAD-2000) |
 
 ### Question Answering
 
@@ -92,6 +93,7 @@
 | MMS | [Link](https://arxiv.org/abs/2306.07902) | [Link](https://huggingface.co/datasets/Brand24/mms) |
 | SentiLex | [Link](https://aclanthology.org/P14-2063/) | [Link](https://huggingface.co/datasets/senti-lex/senti_lex) |
 | ParlaSent | - | [Link](https://huggingface.co/datasets/classla/ParlaSent) |
+| M-ABSA | [Link](https://arxiv.org/abs/2502.11824) | [Link](https://huggingface.co/datasets/Multilingual-NLP/M-ABSA) |
 
 ### Hate Speech
 
@@ -107,11 +109,13 @@
 | MultiClaim Claim Detection | [Link](https://arxiv.org/abs/2311.06121) | [Link](https://github.com/kinit-sk/claim-detection/tree/main) |
 | Demagog | - | [Link](https://corpora.kiv.zcu.cz/fact-checking/) |
 | qacg-sk | - | [Link](https://huggingface.co/datasets/ctu-aic/qacg-sk) |
+| AMC-16K | [Link](https://arxiv.org/abs/2503.02737) | [Link](https://github.com/kinit-sk/llms-claim-matching/tree/main/datasets) |
 
 ### Machine Generated Text Detection
 
 | Name | Paper | Link |
 |------ | ----- | ---- |
+| MultiSocial | [Link](https://arxiv.org/abs/2406.12549) | [Link](https://zenodo.org/records/13846152) |
 
 ### Instruction Tuning
 
@@ -172,3 +176,4 @@
 | Spell Check | - | [Link](https://huggingface.co/datasets/openfoodfacts/spellcheck-benchmark) |
 | XTREME-S | [Link](https://arxiv.org/abs/2203.10752) | [Link](https://huggingface.co/datasets/google/xtreme_s) |
 | WebFAQ Retrieval | [Link](https://arxiv.org/abs/2502.20936) | [Link](https://huggingface.co/datasets/PaDaS-Lab/webfaq-retrieval) |
+| MultiBLiMP | - | [Link](https://huggingface.co/datasets/jumelet/multiblimp) |
