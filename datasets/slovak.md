@@ -177,3 +177,5 @@
 | XTREME-S | [Link](https://arxiv.org/abs/2203.10752) | [Link](https://huggingface.co/datasets/google/xtreme_s) |
 | WebFAQ Retrieval | [Link](https://arxiv.org/abs/2502.20936) | [Link](https://huggingface.co/datasets/PaDaS-Lab/webfaq-retrieval) |
 | MultiBLiMP | - | [Link](https://huggingface.co/datasets/jumelet/multiblimp) |
+| SlovakBabyLM | - | [Link](https://huggingface.co/datasets/ubokri/SlovakBabyLM) |
+| toxi-text-3M | - | [Link](https://huggingface.co/datasets/FredZhang7/toxi-text-3M) |
